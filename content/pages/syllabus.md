@@ -17,7 +17,7 @@ This course provides an introduction to the linguistic study of _abnormal langua
 Target Audience
 ---------------
 
-This course is aimed at undergraduates in the cognitive sciences, brain sciences, and linguistics. Graduates students are also welcome and may receive graduate credit. Interested students should have at least some background in linguistics (e.g. [24.900](/courses/24-900-introduction-to-linguistics-fall-2012/), "Introduction to Linguistics"). Those lacking such a background should contact the instructors as soon as possible.
+This course is aimed at undergraduates in the cognitive sciences, brain sciences, and linguistics. Graduates students are also welcome and may receive graduate credit. Interested students should have at least some background in linguistics (e.g. [24.900](/courses/24-900-introduction-to-linguistics-fall-2012), "Introduction to Linguistics"). Those lacking such a background should contact the instructors as soon as possible.
 
 Readings
 --------
